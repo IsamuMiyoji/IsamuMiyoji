@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IsamuMiyoji
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning a lot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
